@@ -171,7 +171,7 @@ ul {
   color: white;
 }
 
-.cancel{
+.cancel {
   display: none;
   background-color: #b1b1b1;
   color: #fff;
@@ -230,6 +230,6 @@ ul {
   }
 
   .drag-column {
-    margin: 10px;
+    margin: 15px 10px;
   }
 }
