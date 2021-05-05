@@ -131,6 +131,7 @@ ul {
   line-height: 1.5rem;
   letter-spacing: 1px;
   cursor: pointer;
+  user-select: none;
 }
 
 .drag-item:focus {
